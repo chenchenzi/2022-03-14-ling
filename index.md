@@ -255,14 +255,14 @@ Edit the text to match who can attend the workshop. For instance:
 - This workshop is open to the public.
 - If you are interested in attending this workshop, contact me@example.com
   for more information
-{% endcomment %}
+
 
 <p id="who-can-attend">
     <strong>Who can attend?:</strong>
     This workshop is open to research postgraduates in the Faculty of Linguistics, Philology, and Phonetics, University of Oxford. Registration is needed. If you are interested in attending this workshop, contact chenzi.xu@ling-phil.ox.ac.uk
     for more information.
 </p>
-
+{% endcomment %}
 
 <hr/>
 
